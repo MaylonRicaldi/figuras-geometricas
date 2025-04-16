@@ -1,4 +1,6 @@
-# Figuras Geometricas
+# Figuras Geometricas en:
+![FiguritaPython](https://i.pinimg.com/236x/85/6e/45/856e4546b8c202dda03e97771f76f902.jpg)
+
 ## Desarrollador
 | Apellidos y nombres |
 | --- |
@@ -35,3 +37,6 @@ Se eliminó la sentencia `pass` en el método abstracto `calcular_area`, ya que 
   def calcular_area(self):
       """Calcula el área de la figura geométrica."""
       raise NotImplementedError("Este método debe ser implementado por una subclase.")
+
+
+![Figurita](https://i.pinimg.com/236x/81/0e/dd/810edd8c84b58772b2b2898a314b6fbd.jpg)
