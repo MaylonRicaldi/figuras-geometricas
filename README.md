@@ -3,6 +3,7 @@
 | Apellidos y nombres |
 | --- |
 | Ricaldi Solis Maylon Amilcar|
+
 Este archivo contiene una descripción de los cambios realizados en el código Python para cumplir con las buenas prácticas de PEP 8 y mejorar su legibilidad y estructura.
 
 ## Cambios Realizados
